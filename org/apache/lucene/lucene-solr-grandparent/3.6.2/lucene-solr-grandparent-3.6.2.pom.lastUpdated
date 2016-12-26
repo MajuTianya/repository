@@ -1,0 +1,7 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Fri Dec 23 11:40:07 CST 2016
+http\://192.168.210.60\:8081/nexus/content/groups/public/.lastUpdated=1482464407089
+http\://192.168.1.50\:8081/nexus/content/groups/public/.error=Could not transfer artifact org.apache.lucene\:lucene-solr-grandparent\:pom\:3.6.2 from/to public (http\://192.168.1.50\:8081/nexus/content/groups/public/)\: connection timed out to http\://192.168.1.50\:8081/nexus/content/groups/public/org/apache/lucene/lucene-solr-grandparent/3.6.2/lucene-solr-grandparent-3.6.2.pom
+default-http\://192.168.1.50\:8081/nexus/content/groups/public/.lastUpdated=1482407159708
+default-http\://repo.maven.apache.org/maven2/.lastUpdated=1482407169783
+http\://repo.maven.apache.org/maven2/.error=Could not transfer artifact org.apache.lucene\:lucene-solr-grandparent\:pom\:3.6.2 from/to central (http\://repo.maven.apache.org/maven2)\: connection timed out to http\://repo.maven.apache.org/maven2/org/apache/lucene/lucene-solr-grandparent/3.6.2/lucene-solr-grandparent-3.6.2.pom

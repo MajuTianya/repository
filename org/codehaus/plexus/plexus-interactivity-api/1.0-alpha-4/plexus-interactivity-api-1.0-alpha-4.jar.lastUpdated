@@ -1,0 +1,5 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Fri Dec 23 11:18:15 CST 2016
+default-http\://repo.maven.apache.org/maven2/.lastUpdated=1482408154211
+https\://repo.maven.apache.org/maven2/.lastUpdated=1482463095488
+http\://repo.maven.apache.org/maven2/.error=Could not transfer artifact org.codehaus.plexus\:plexus-interactivity-api\:jar\:1.0-alpha-4 from/to central (http\://repo.maven.apache.org/maven2)\: connection timed out to http\://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-interactivity-api/1.0-alpha-4/plexus-interactivity-api-1.0-alpha-4.jar

@@ -1,0 +1,5 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Fri Dec 23 11:37:10 CST 2016
+http\://192.168.210.60\:8081/nexus/content/groups/public/.lastUpdated=1482464230730
+default-http\://repo.maven.apache.org/maven2/.lastUpdated=1482457450401
+http\://repo.maven.apache.org/maven2/.error=Could not transfer artifact org.antlr\:antlr\:jar\:3.0ea8 from/to central (http\://repo.maven.apache.org/maven2)\: No response received after 60000

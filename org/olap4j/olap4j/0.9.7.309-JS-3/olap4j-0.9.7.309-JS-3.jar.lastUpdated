@@ -1,0 +1,7 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Fri Dec 23 09:46:20 CST 2016
+http\://jaspersoft.artifactoryonline.com/jaspersoft/third-party-ce-artifacts/.lastUpdated=1482457580778
+http\://repo.maven.apache.org/maven2/.lastUpdated=1482457448301
+http\://jasperreports.sourceforge.net/maven2/.error=Could not transfer artifact org.olap4j\:olap4j\:jar\:0.9.7.309-JS-3 from/to jasperreports (http\://jasperreports.sourceforge.net/maven2)\: No response received after 60000
+default-http\://jasperreports.sourceforge.net/maven2/.lastUpdated=1482457518053
+http\://repo.maven.apache.org/maven2/.error=

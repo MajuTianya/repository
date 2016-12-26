@@ -1,0 +1,5 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Thu Dec 22 19:40:51 CST 2016
+http\://192.168.1.50\:8081/nexus/content/groups/public/.error=Could not transfer artifact org.apache.poi\:poi-ooxml-schemas\:pom\:3.8 from/to public (http\://192.168.1.50\:8081/nexus/content/groups/public/)\: connection timed out to http\://192.168.1.50\:8081/nexus/content/groups/public/org/apache/poi/poi-ooxml-schemas/3.8/poi-ooxml-schemas-3.8.pom
+http\://repo.maven.apache.org/maven2/.lastUpdated=1482406851257
+default-http\://192.168.1.50\:8081/nexus/content/groups/public/.lastUpdated=1482406849536

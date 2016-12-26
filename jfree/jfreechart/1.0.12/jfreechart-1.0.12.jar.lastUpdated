@@ -1,0 +1,9 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Fri Dec 23 11:37:03 CST 2016
+http\://192.168.210.60\:8081/nexus/content/groups/public/.lastUpdated=1482464223085
+http\://jaspersoft.artifactoryonline.com/jaspersoft/third-party-ce-artifacts/.lastUpdated=1482457580758
+http\://jasperreports.sourceforge.net/maven2/.error=
+http\://jasperreports.sourceforge.net/maven2/.lastUpdated=1482457518043
+default-http\://repo.maven.apache.org/maven2/.lastUpdated=1482457444161
+http\://repo.maven.apache.org/maven2/.error=Could not transfer artifact jfree\:jfreechart\:jar\:1.0.12 from/to central (http\://repo.maven.apache.org/maven2)\: No response received after 60000
+http\://jaspersoft.artifactoryonline.com/jaspersoft/third-party-ce-artifacts/.error=

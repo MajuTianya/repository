@@ -1,0 +1,7 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Fri Dec 23 11:40:19 CST 2016
+http\://192.168.210.60\:8081/nexus/content/groups/public/.lastUpdated=1482464419873
+http\://192.168.1.50\:8081/nexus/content/groups/public/.error=Could not transfer artifact org.springframework\:spring-web\:jar\:3.2.8.RELEASE from/to public (http\://192.168.1.50\:8081/nexus/content/groups/public/)\: connection timed out to http\://192.168.1.50\:8081/nexus/content/groups/public/org/springframework/spring-web/3.2.8.RELEASE/spring-web-3.2.8.RELEASE.jar
+default-http\://192.168.1.50\:8081/nexus/content/groups/public/.lastUpdated=1482455639139
+default-http\://repo.maven.apache.org/maven2/.lastUpdated=1482456186401
+http\://repo.maven.apache.org/maven2/.error=Could not transfer artifact org.springframework\:spring-web\:jar\:3.2.8.RELEASE from/to central (http\://repo.maven.apache.org/maven2)\: No response received after 60000

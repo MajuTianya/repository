@@ -1,0 +1,5 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Thu Dec 22 19:57:23 CST 2016
+http\://192.168.1.50\:8081/nexus/content/groups/public/.error=Could not transfer artifact net.lingala.zip4j\:zip4j\:pom\:1.3.1 from/to public (http\://192.168.1.50\:8081/nexus/content/groups/public/)\: connection timed out to http\://192.168.1.50\:8081/nexus/content/groups/public/net/lingala/zip4j/zip4j/1.3.1/zip4j-1.3.1.pom
+http\://repo.maven.apache.org/maven2/.lastUpdated=1482407843303
+default-http\://192.168.1.50\:8081/nexus/content/groups/public/.lastUpdated=1482407842730

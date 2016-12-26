@@ -1,0 +1,5 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Fri Dec 23 11:17:58 CST 2016
+default-http\://repo.maven.apache.org/maven2/.lastUpdated=1482408020343
+https\://repo.maven.apache.org/maven2/.lastUpdated=1482463078245
+http\://repo.maven.apache.org/maven2/.error=Could not transfer artifact org.apache.maven.doxia\:doxia-sink-api\:pom\:1.0-alpha-7 from/to central (http\://repo.maven.apache.org/maven2)\: connection timed out to http\://repo.maven.apache.org/maven2/org/apache/maven/doxia/doxia-sink-api/1.0-alpha-7/doxia-sink-api-1.0-alpha-7.pom

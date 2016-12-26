@@ -1,0 +1,9 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Fri Dec 23 11:36:40 CST 2016
+http\://192.168.210.60\:8081/nexus/content/groups/public/.lastUpdated=1482464200486
+http\://192.168.1.50\:8081/nexus/content/groups/public/.error=Could not transfer artifact commons-codec\:commons-codec\:pom\:1.6 from/to public (http\://192.168.1.50\:8081/nexus/content/groups/public/)\: connection timed out to http\://192.168.1.50\:8081/nexus/content/groups/public/commons-codec/commons-codec/1.6/commons-codec-1.6.pom
+default-http\://192.168.1.50\:8081/nexus/content/groups/public/.lastUpdated=1482406473378
+default-http\://repo.maven.apache.org/maven2/.lastUpdated=1482406483409
+http\://repo.maven.apache.org/maven2/.error=Could not transfer artifact commons-codec\:commons-codec\:pom\:1.6 from/to central (http\://repo.maven.apache.org/maven2)\: connection timed out to http\://repo.maven.apache.org/maven2/commons-codec/commons-codec/1.6/commons-codec-1.6.pom
+http\://files.couchbase.com/maven2/.lastUpdated=1482406486913
+http\://files.couchbase.com/maven2/.error=

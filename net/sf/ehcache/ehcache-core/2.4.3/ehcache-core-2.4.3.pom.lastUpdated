@@ -1,0 +1,5 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Thu Dec 22 19:16:48 CST 2016
+http\://192.168.1.50\:8081/nexus/content/groups/public/.error=Could not transfer artifact net.sf.ehcache\:ehcache-core\:pom\:2.4.3 from/to public (http\://192.168.1.50\:8081/nexus/content/groups/public/)\: connection timed out to http\://192.168.1.50\:8081/nexus/content/groups/public/net/sf/ehcache/ehcache-core/2.4.3/ehcache-core-2.4.3.pom
+http\://repo.maven.apache.org/maven2/.lastUpdated=1482405408353
+default-http\://192.168.1.50\:8081/nexus/content/groups/public/.lastUpdated=1482405407014

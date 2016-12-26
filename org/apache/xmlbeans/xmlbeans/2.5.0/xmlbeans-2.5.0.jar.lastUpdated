@@ -1,0 +1,5 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Fri Dec 23 11:37:10 CST 2016
+http\://192.168.210.60\:8081/nexus/content/groups/public/.lastUpdated=1482464230368
+default-http\://repo.maven.apache.org/maven2/.lastUpdated=1482457449871
+http\://repo.maven.apache.org/maven2/.error=Could not transfer artifact org.apache.xmlbeans\:xmlbeans\:jar\:2.5.0 from/to central (http\://repo.maven.apache.org/maven2)\: No response received after 60000

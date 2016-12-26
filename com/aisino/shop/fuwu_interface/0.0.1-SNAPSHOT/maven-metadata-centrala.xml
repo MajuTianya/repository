@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>com.aisino.shop</groupId>
+  <artifactId>fuwu_interface</artifactId>
+  <version>0.0.1-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20161117.070159</timestamp>
+      <buildNumber>3</buildNumber>
+    </snapshot>
+    <lastUpdated>20161117070159</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>jar</extension>
+        <value>0.0.1-20161117.070159-3</value>
+        <updated>20161117070159</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>0.0.1-20161117.070159-3</value>
+        <updated>20161117070159</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+</metadata>

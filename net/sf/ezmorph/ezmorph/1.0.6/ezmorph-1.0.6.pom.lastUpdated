@@ -1,0 +1,5 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Thu Dec 22 19:32:37 CST 2016
+http\://192.168.1.50\:8081/nexus/content/groups/public/.error=Could not transfer artifact net.sf.ezmorph\:ezmorph\:pom\:1.0.6 from/to public (http\://192.168.1.50\:8081/nexus/content/groups/public/)\: connection timed out to http\://192.168.1.50\:8081/nexus/content/groups/public/net/sf/ezmorph/ezmorph/1.0.6/ezmorph-1.0.6.pom
+http\://repo.maven.apache.org/maven2/.lastUpdated=1482406357171
+default-http\://192.168.1.50\:8081/nexus/content/groups/public/.lastUpdated=1482406355604

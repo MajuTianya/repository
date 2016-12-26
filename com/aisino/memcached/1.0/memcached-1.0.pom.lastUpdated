@@ -1,0 +1,7 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Fri Dec 23 11:40:06 CST 2016
+http\://192.168.210.60\:8081/nexus/content/groups/public/.lastUpdated=1482464406842
+http\://192.168.1.50\:8081/nexus/content/groups/public/.error=Could not transfer artifact com.aisino\:memcached\:pom\:1.0 from/to public (http\://192.168.1.50\:8081/nexus/content/groups/public/)\: connection timed out to http\://192.168.1.50\:8081/nexus/content/groups/public/com/aisino/memcached/1.0/memcached-1.0.pom
+http\://repo.maven.apache.org/maven2/.lastUpdated=1482407018787
+default-http\://192.168.1.50\:8081/nexus/content/groups/public/.lastUpdated=1482407015205
+http\://repo.maven.apache.org/maven2/.error=

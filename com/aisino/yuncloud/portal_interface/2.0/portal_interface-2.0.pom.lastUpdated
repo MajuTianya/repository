@@ -1,0 +1,7 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Fri Dec 23 11:38:00 CST 2016
+http\://192.168.210.60\:8081/nexus/content/groups/public/.lastUpdated=1482464280882
+http\://192.168.1.50\:8081/nexus/content/groups/public/.error=Could not transfer artifact com.aisino.yuncloud\:portal_interface\:pom\:2.0 from/to public (http\://192.168.1.50\:8081/nexus/content/groups/public/)\: connection timed out to http\://192.168.1.50\:8081/nexus/content/groups/public/com/aisino/yuncloud/portal_interface/2.0/portal_interface-2.0.pom
+http\://repo.maven.apache.org/maven2/.lastUpdated=1482408632948
+default-http\://192.168.1.50\:8081/nexus/content/groups/public/.lastUpdated=1482409179413
+http\://repo.maven.apache.org/maven2/.error=

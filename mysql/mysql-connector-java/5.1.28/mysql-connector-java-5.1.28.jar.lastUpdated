@@ -1,0 +1,7 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Fri Dec 23 11:40:50 CST 2016
+http\://192.168.210.60\:8081/nexus/content/groups/public/.lastUpdated=1482464450873
+http\://192.168.1.50\:8081/nexus/content/groups/public/.error=Could not transfer artifact mysql\:mysql-connector-java\:jar\:5.1.28 from/to public (http\://192.168.1.50\:8081/nexus/content/groups/public/)\: connection timed out to http\://192.168.1.50\:8081/nexus/content/groups/public/mysql/mysql-connector-java/5.1.28/mysql-connector-java-5.1.28.jar
+default-http\://192.168.1.50\:8081/nexus/content/groups/public/.lastUpdated=1482455639426
+default-http\://repo.maven.apache.org/maven2/.lastUpdated=1482456214384
+http\://repo.maven.apache.org/maven2/.error=Could not transfer artifact mysql\:mysql-connector-java\:jar\:5.1.28 from/to central (http\://repo.maven.apache.org/maven2)\: No response received after 60000

@@ -1,0 +1,7 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Fri Dec 23 11:40:16 CST 2016
+http\://192.168.210.60\:8081/nexus/content/groups/public/.lastUpdated=1482464416178
+http\://192.168.1.50\:8081/nexus/content/groups/public/.error=Could not transfer artifact org.springframework\:spring-context\:jar\:3.2.8.RELEASE from/to public (http\://192.168.1.50\:8081/nexus/content/groups/public/)\: connection timed out to http\://192.168.1.50\:8081/nexus/content/groups/public/org/springframework/spring-context/3.2.8.RELEASE/spring-context-3.2.8.RELEASE.jar
+default-http\://192.168.1.50\:8081/nexus/content/groups/public/.lastUpdated=1482455639129
+default-http\://repo.maven.apache.org/maven2/.lastUpdated=1482456186388
+http\://repo.maven.apache.org/maven2/.error=Could not transfer artifact org.springframework\:spring-context\:jar\:3.2.8.RELEASE from/to central (http\://repo.maven.apache.org/maven2)\: No response received after 60000

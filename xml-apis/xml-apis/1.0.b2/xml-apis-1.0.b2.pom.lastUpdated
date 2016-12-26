@@ -1,0 +1,5 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Thu Dec 22 19:12:47 CST 2016
+http\://192.168.1.50\:8081/nexus/content/groups/public/.error=Could not transfer artifact xml-apis\:xml-apis\:pom\:1.0.b2 from/to public (http\://192.168.1.50\:8081/nexus/content/groups/public/)\: connection timed out to http\://192.168.1.50\:8081/nexus/content/groups/public/xml-apis/xml-apis/1.0.b2/xml-apis-1.0.b2.pom
+http\://repo.maven.apache.org/maven2/.lastUpdated=1482405167736
+default-http\://192.168.1.50\:8081/nexus/content/groups/public/.lastUpdated=1482405166144

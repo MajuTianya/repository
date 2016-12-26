@@ -1,0 +1,13 @@
+<project>
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>antlr</groupId>
+  <artifactId>antlr</artifactId>
+  <version>3.0ea8</version>
+
+  <distributionManagement>
+    <relocation>
+      <groupId>org.antlr</groupId>
+    </relocation>
+  </distributionManagement>
+
+</project>

@@ -1,0 +1,5 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Thu Dec 22 19:12:36 CST 2016
+http\://192.168.1.50\:8081/nexus/content/groups/public/.error=Could not transfer artifact commons-collections\:commons-collections\:pom\:2.1 from/to public (http\://192.168.1.50\:8081/nexus/content/groups/public/)\: connection timed out to http\://192.168.1.50\:8081/nexus/content/groups/public/commons-collections/commons-collections/2.1/commons-collections-2.1.pom
+http\://repo.maven.apache.org/maven2/.lastUpdated=1482405156018
+default-http\://192.168.1.50\:8081/nexus/content/groups/public/.lastUpdated=1482405155175

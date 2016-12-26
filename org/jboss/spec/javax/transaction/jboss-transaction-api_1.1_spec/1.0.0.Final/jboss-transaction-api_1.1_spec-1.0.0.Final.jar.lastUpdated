@@ -1,0 +1,5 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Fri Dec 23 09:23:16 CST 2016
+http\://192.168.1.50\:8081/nexus/content/groups/public/.error=Could not transfer artifact org.jboss.spec.javax.transaction\:jboss-transaction-api_1.1_spec\:jar\:1.0.0.Final from/to public (http\://192.168.1.50\:8081/nexus/content/groups/public/)\: connection timed out to http\://192.168.1.50\:8081/nexus/content/groups/public/org/jboss/spec/javax/transaction/jboss-transaction-api_1.1_spec/1.0.0.Final/jboss-transaction-api_1.1_spec-1.0.0.Final.jar
+http\://repo.maven.apache.org/maven2/.lastUpdated=1482456196783
+default-http\://192.168.1.50\:8081/nexus/content/groups/public/.lastUpdated=1482455639281

@@ -1,0 +1,7 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Fri Dec 23 11:41:08 CST 2016
+http\://192.168.210.60\:8081/nexus/content/groups/public/.lastUpdated=1482464468784
+http\://192.168.1.50\:8081/nexus/content/groups/public/.error=Could not transfer artifact bouncycastle\:bcmail-jdk14\:jar\:138 from/to public (http\://192.168.1.50\:8081/nexus/content/groups/public/)\: connection timed out to http\://192.168.1.50\:8081/nexus/content/groups/public/bouncycastle/bcmail-jdk14/138/bcmail-jdk14-138.jar
+default-http\://192.168.1.50\:8081/nexus/content/groups/public/.lastUpdated=1482455639620
+default-http\://repo.maven.apache.org/maven2/.lastUpdated=1482456234771
+http\://repo.maven.apache.org/maven2/.error=Could not transfer artifact bouncycastle\:bcmail-jdk14\:jar\:138 from/to central (http\://repo.maven.apache.org/maven2)\: No response received after 60000

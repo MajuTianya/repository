@@ -1,0 +1,5 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Fri Dec 23 09:23:50 CST 2016
+http\://192.168.1.50\:8081/nexus/content/groups/public/.error=Could not transfer artifact org.codehaus.jackson\:jackson-core-asl\:jar\:1.8.8 from/to public (http\://192.168.1.50\:8081/nexus/content/groups/public/)\: connection timed out to http\://192.168.1.50\:8081/nexus/content/groups/public/org/codehaus/jackson/jackson-core-asl/1.8.8/jackson-core-asl-1.8.8.jar
+http\://repo.maven.apache.org/maven2/.lastUpdated=1482456230582
+default-http\://192.168.1.50\:8081/nexus/content/groups/public/.lastUpdated=1482455639565

@@ -1,0 +1,7 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Fri Dec 23 11:40:31 CST 2016
+http\://192.168.210.60\:8081/nexus/content/groups/public/.lastUpdated=1482464431034
+http\://192.168.1.50\:8081/nexus/content/groups/public/.error=Could not transfer artifact struts\:struts\:jar\:1.2.9 from/to public (http\://192.168.1.50\:8081/nexus/content/groups/public/)\: connection timed out to http\://192.168.1.50\:8081/nexus/content/groups/public/struts/struts/1.2.9/struts-1.2.9.jar
+default-http\://192.168.1.50\:8081/nexus/content/groups/public/.lastUpdated=1482455639214
+default-http\://repo.maven.apache.org/maven2/.lastUpdated=1482456193986
+http\://repo.maven.apache.org/maven2/.error=Could not transfer artifact struts\:struts\:jar\:1.2.9 from/to central (http\://repo.maven.apache.org/maven2)\: No response received after 60000

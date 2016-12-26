@@ -1,0 +1,7 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Fri Dec 23 11:41:06 CST 2016
+http\://192.168.210.60\:8081/nexus/content/groups/public/.lastUpdated=1482464465998
+http\://192.168.1.50\:8081/nexus/content/groups/public/.error=Could not transfer artifact org.xerial.snappy\:snappy-java\:jar\:1.0.4.1 from/to public (http\://192.168.1.50\:8081/nexus/content/groups/public/)\: connection timed out to http\://192.168.1.50\:8081/nexus/content/groups/public/org/xerial/snappy/snappy-java/1.0.4.1/snappy-java-1.0.4.1.jar
+default-http\://192.168.1.50\:8081/nexus/content/groups/public/.lastUpdated=1482455639579
+default-http\://repo.maven.apache.org/maven2/.lastUpdated=1482456231718
+http\://repo.maven.apache.org/maven2/.error=Could not transfer artifact org.xerial.snappy\:snappy-java\:jar\:1.0.4.1 from/to central (http\://repo.maven.apache.org/maven2)\: No response received after 60000

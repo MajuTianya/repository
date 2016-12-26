@@ -1,0 +1,7 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Fri Dec 23 11:40:51 CST 2016
+http\://192.168.210.60\:8081/nexus/content/groups/public/.lastUpdated=1482464451742
+http\://192.168.1.50\:8081/nexus/content/groups/public/.error=Could not transfer artifact org.apache.poi\:poi\:jar\:3.12 from/to public (http\://192.168.1.50\:8081/nexus/content/groups/public/)\: connection timed out to http\://192.168.1.50\:8081/nexus/content/groups/public/org/apache/poi/poi/3.12/poi-3.12.jar
+default-http\://192.168.1.50\:8081/nexus/content/groups/public/.lastUpdated=1482455639439
+default-http\://repo.maven.apache.org/maven2/.lastUpdated=1482456216116
+http\://repo.maven.apache.org/maven2/.error=Could not transfer artifact org.apache.poi\:poi\:jar\:3.12 from/to central (http\://repo.maven.apache.org/maven2)\: No response received after 60000

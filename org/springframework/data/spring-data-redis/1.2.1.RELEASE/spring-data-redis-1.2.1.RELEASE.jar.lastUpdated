@@ -1,0 +1,7 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Fri Dec 23 11:40:23 CST 2016
+http\://192.168.210.60\:8081/nexus/content/groups/public/.lastUpdated=1482464423992
+http\://192.168.1.50\:8081/nexus/content/groups/public/.error=Could not transfer artifact org.springframework.data\:spring-data-redis\:jar\:1.2.1.RELEASE from/to public (http\://192.168.1.50\:8081/nexus/content/groups/public/)\: connection timed out to http\://192.168.1.50\:8081/nexus/content/groups/public/org/springframework/data/spring-data-redis/1.2.1.RELEASE/spring-data-redis-1.2.1.RELEASE.jar
+default-http\://192.168.1.50\:8081/nexus/content/groups/public/.lastUpdated=1482455639156
+default-http\://repo.maven.apache.org/maven2/.lastUpdated=1482456187445
+http\://repo.maven.apache.org/maven2/.error=Could not transfer artifact org.springframework.data\:spring-data-redis\:jar\:1.2.1.RELEASE from/to central (http\://repo.maven.apache.org/maven2)\: No response received after 60000

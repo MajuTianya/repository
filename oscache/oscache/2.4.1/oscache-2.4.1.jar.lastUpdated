@@ -1,0 +1,10 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Fri Dec 23 11:37:52 CST 2016
+http\://192.168.210.60\:8081/nexus/content/groups/public/.lastUpdated=1482464261685
+http\://repo.maven.apache.org/maven2/.lastUpdated=1482464272886
+http\://192.168.210.60\:8081/nexus/content/repositories/.error=
+http\://repo.maven.apache.org/maven2/.error=
+https\://oss.sonatype.org/content/repositories/snapshots/.lastUpdated=1482464272262
+https\://oss.sonatype.org/content/repositories/snapshots/.error=
+http\://192.168.210.60\:8081/nexus/content/repositories/.lastUpdated=1482464261781
+http\://192.168.210.60\:8081/nexus/content/groups/public/.error=

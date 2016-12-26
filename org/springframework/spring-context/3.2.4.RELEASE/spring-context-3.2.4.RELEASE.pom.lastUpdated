@@ -1,0 +1,5 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Fri Dec 23 11:36:32 CST 2016
+http\://192.168.210.60\:8081/nexus/content/groups/public/.lastUpdated=1482464192751
+default-http\://repo.maven.apache.org/maven2/.lastUpdated=1482408275421
+http\://repo.maven.apache.org/maven2/.error=Could not transfer artifact org.springframework\:spring-context\:pom\:3.2.4.RELEASE from/to central (http\://repo.maven.apache.org/maven2)\: connection timed out to http\://repo.maven.apache.org/maven2/org/springframework/spring-context/3.2.4.RELEASE/spring-context-3.2.4.RELEASE.pom
