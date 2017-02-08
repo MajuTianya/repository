@@ -1,0 +1,14 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Wed Jan 11 21:11:15 CST 2017
+http\://192.168.210.60\:8081/nexus/content/groups/public/.error=
+https\://oss.sonatype.org/content/repositories/snapshots/.error=
+http\://repo.akka.io/releases/.lastUpdated=1484140265162
+http\://repo.akka.io/releases/.error=
+http\://repo.maven.apache.org/maven2/.lastUpdated=1484140275860
+http\://repo.maven.apache.org/maven2/.error=
+https\://oss.sonatype.org/content/repositories/snapshots/.lastUpdated=1484140262863
+http\://192.168.1.50\:8081/nexus/content/groups/public/.error=Could not transfer artifact com.aisino\:baseframe12test\:jar\:sources\:1.0 from/to public (http\://192.168.1.50\:8081/nexus/content/groups/public/)\: connection timed out to http\://192.168.1.50\:8081/nexus/content/groups/public/com/aisino/baseframe12test/1.0/baseframe12test-1.0-sources.jar
+http\://192.168.210.60\:8081/nexus/content/groups/public/.lastUpdated=1484140260550
+http\://192.168.210.60\:8081/nexus/content/repositories/.error=
+default-http\://192.168.1.50\:8081/nexus/content/groups/public/.lastUpdated=1484140275337
+http\://192.168.210.60\:8081/nexus/content/repositories/.lastUpdated=1484140260602

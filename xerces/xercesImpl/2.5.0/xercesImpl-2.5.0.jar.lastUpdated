@@ -1,0 +1,12 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Wed Feb 08 14:15:33 CST 2017
+http\://192.168.210.60\:8081/nexus/content/groups/public/.error=Could not transfer artifact xerces\:xercesImpl\:jar\:2.5.0 from/to centrala (http\://192.168.210.60\:8081/nexus/content/groups/public/)\: No response received after 60000
+https\://oss.sonatype.org/content/repositories/snapshots/.error=
+http\://repo.akka.io/releases/.lastUpdated=1486534173535
+http\://repo.akka.io/releases/.error=
+default-http\://repo.maven.apache.org/maven2/.lastUpdated=1486534533790
+http\://repo.maven.apache.org/maven2/.error=Could not transfer artifact xerces\:xercesImpl\:jar\:2.5.0 from/to central (http\://repo.maven.apache.org/maven2)\: No response received after 60000
+https\://oss.sonatype.org/content/repositories/snapshots/.lastUpdated=1486534172796
+http\://192.168.210.60\:8081/nexus/content/repositories/.error=
+default-http\://192.168.210.60\:8081/nexus/content/groups/public/.lastUpdated=1486534170143
+http\://192.168.210.60\:8081/nexus/content/repositories/.lastUpdated=1486534171472

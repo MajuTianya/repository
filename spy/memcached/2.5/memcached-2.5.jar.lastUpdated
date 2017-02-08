@@ -1,0 +1,13 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Wed Dec 28 11:01:33 CST 2016
+http\://192.168.210.60\:8081/nexus/content/groups/public/.error=
+https\://oss.sonatype.org/content/repositories/snapshots/.error=
+http\://repo.akka.io/releases/.lastUpdated=1482894093729
+http\://repo.maven.apache.org/maven2/.lastUpdated=1482893485906
+https\://mvnrepository.com/artifact/spy/memcached/.error=Could not transfer artifact spy\:memcached\:jar\:2.5 from/to mvnrepository-com (https\://mvnrepository.com/artifact/spy/memcached)\: connection timed out to https\://mvnrepository.com/artifact/spy/memcached/spy/memcached/2.5/memcached-2.5.jar
+default-https\://mvnrepository.com/artifact/spy/memcached/.lastUpdated=1482893485407
+https\://oss.sonatype.org/content/repositories/snapshots/.lastUpdated=1482893475178
+http\://repo.maven.apache.org/maven2/.error=
+http\://192.168.210.60\:8081/nexus/content/groups/public/.lastUpdated=1482893471501
+http\://192.168.210.60\:8081/nexus/content/repositories/.error=
+http\://192.168.210.60\:8081/nexus/content/repositories/.lastUpdated=1482893471548

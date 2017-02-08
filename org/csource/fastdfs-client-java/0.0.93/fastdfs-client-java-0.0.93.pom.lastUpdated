@@ -1,0 +1,12 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Tue Dec 27 17:47:31 CST 2016
+http\://192.168.210.60\:8081/nexus/content/groups/public/.error=
+https\://oss.sonatype.org/content/repositories/snapshots/.error=
+http\://repo.maven.apache.org/maven2/.lastUpdated=1482832051161
+http\://repo.maven.apache.org/maven2/.error=
+https\://oss.sonatype.org/content/repositories/snapshots/.lastUpdated=1482832040635
+http\://192.168.1.50\:8081/nexus/content/groups/public/.error=Could not transfer artifact org.csource\:fastdfs-client-java\:pom\:0.0.93 from/to public (http\://192.168.1.50\:8081/nexus/content/groups/public/)\: connection timed out to http\://192.168.1.50\:8081/nexus/content/groups/public/org/csource/fastdfs-client-java/0.0.93/fastdfs-client-java-0.0.93.pom
+http\://192.168.210.60\:8081/nexus/content/groups/public/.lastUpdated=1482832025343
+http\://192.168.210.60\:8081/nexus/content/repositories/.error=
+default-http\://192.168.1.50\:8081/nexus/content/groups/public/.lastUpdated=1482832050663
+http\://192.168.210.60\:8081/nexus/content/repositories/.lastUpdated=1482832025501
