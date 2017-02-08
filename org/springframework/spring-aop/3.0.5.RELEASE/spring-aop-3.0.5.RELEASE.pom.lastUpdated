@@ -1,5 +1,0 @@
-#NOTE: This is an internal implementation file, its format can be changed without prior notice.
-#Thu Dec 22 19:52:57 CST 2016
-http\://192.168.1.50\:8081/nexus/content/groups/public/.error=Could not transfer artifact org.springframework\:spring-aop\:pom\:3.0.5.RELEASE from/to public (http\://192.168.1.50\:8081/nexus/content/groups/public/)\: connection timed out to http\://192.168.1.50\:8081/nexus/content/groups/public/org/springframework/spring-aop/3.0.5.RELEASE/spring-aop-3.0.5.RELEASE.pom
-http\://repo.maven.apache.org/maven2/.lastUpdated=1482407577656
-default-http\://192.168.1.50\:8081/nexus/content/groups/public/.lastUpdated=1482407576872
