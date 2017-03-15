@@ -1,0 +1,16 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Fri Feb 24 11:13:05 CST 2017
+http\://192.168.210.60\:8081/nexus/content/groups/public/.error=
+https\://oss.sonatype.org/content/repositories/snapshots/.error=
+http\://repo.akka.io/releases/.lastUpdated=1487905984746
+http\://repo.akka.io/releases/.error=
+http\://repo.maven.apache.org/maven2/.lastUpdated=1487905942066
+http\://maven.apache.org/.error=
+http\://maven.apache.org/.lastUpdated=1487905985883
+https\://oss.sonatype.org/content/repositories/snapshots/.lastUpdated=1487905983328
+http\://repo.maven.apache.org/maven2/.error=
+http\://192.168.210.60\:8081/nexus/content/groups/public/.lastUpdated=1487905942472
+http\://192.168.210.60\:8081/nexus/content/repositories/.error=
+http\://repo1.maven.org/maven2/.lastUpdated=1487905985263
+http\://repo1.maven.org/maven2/.error=
+http\://192.168.210.60\:8081/nexus/content/repositories/.lastUpdated=1487905942499

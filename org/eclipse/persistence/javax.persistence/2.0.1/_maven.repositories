@@ -1,0 +1,4 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Fri Feb 24 11:10:42 CST 2017
+javax.persistence-2.0.1.pom>=
+javax.persistence-2.0.1.jar>=

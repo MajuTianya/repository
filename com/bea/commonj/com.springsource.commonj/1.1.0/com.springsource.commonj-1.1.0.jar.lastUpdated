@@ -1,0 +1,16 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Fri Feb 24 11:19:39 CST 2017
+http\://192.168.210.60\:8081/nexus/content/groups/public/.error=
+default-http\://repo.akka.io/releases/.lastUpdated=1487906379523
+https\://oss.sonatype.org/content/repositories/snapshots/.error=Could not transfer artifact com.bea.commonj\:com.springsource.commonj\:jar\:1.1.0 from/to jboss-public-repository-group (https\://oss.sonatype.org/content/repositories/snapshots)\: No response received after 60000
+http\://repo.akka.io/releases/.error=Could not transfer artifact com.bea.commonj\:com.springsource.commonj\:jar\:1.1.0 from/to repo-akka-io (http\://repo.akka.io/releases/)\: The operation was cancelled.
+default-http\://repo1.maven.org/maven2/.lastUpdated=1487906379546
+http\://repo.maven.apache.org/maven2/.lastUpdated=1487906245794
+http\://maven.apache.org/.error=Could not transfer artifact com.bea.commonj\:com.springsource.commonj\:jar\:1.1.0 from/to maven-apache-org (http\://maven.apache.org)\: The operation was cancelled.
+default-https\://oss.sonatype.org/content/repositories/snapshots/.lastUpdated=1487906379507
+http\://192.168.210.60\:8081/nexus/content/groups/public/.lastUpdated=1487906246046
+http\://repo.maven.apache.org/maven2/.error=
+http\://192.168.210.60\:8081/nexus/content/repositories/.error=
+default-http\://maven.apache.org/.lastUpdated=1487906379560
+http\://repo1.maven.org/maven2/.error=Could not transfer artifact com.bea.commonj\:com.springsource.commonj\:jar\:1.1.0 from/to repo1-maven-org (http\://repo1.maven.org/maven2/)\: The operation was cancelled.
+http\://192.168.210.60\:8081/nexus/content/repositories/.lastUpdated=1487906246091
